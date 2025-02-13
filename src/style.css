@@ -1,6 +1,6 @@
-@font-face {font-family: ValeraRound;src: url(fonts/VarelaRound-Regular.ttf);}
+@font-face {font-family: ValeraRound;src: url(https://github.com/digipalapp/digipal-web/raw/refs/heads/main/src/fonts/VarelaRound-Regular.ttf);}
 body{
-    background-image: url(img/background-image.jpg);
+    background-image: url(https://raw.githubusercontent.com/digipalapp/digipal-web/refs/heads/main/src/img/background-image.jpg);
     font-family: ValeraRound;
     font-size: 20px;
     color:white;
